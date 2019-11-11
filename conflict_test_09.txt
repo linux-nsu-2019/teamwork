@@ -1,1 +1,2 @@
-9) 6 * 6 = ?
+solve-conflict-test-9
+9) 6 * 6 =36
